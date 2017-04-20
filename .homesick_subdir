@@ -1,0 +1,6 @@
+.config
+.config/byobu
+.config/byobu/plugins
+.config/zsh
+.config/git
+.ssh
